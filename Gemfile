@@ -33,6 +33,7 @@ gem 'jbuilder', '~> 2.5'
 
 # Use Mongoid as an ODM(Mongo Document Mapper) Abstraction for interacting with Mongo DB
 gem 'mongoid'
+gem 'mongoid-slug'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
