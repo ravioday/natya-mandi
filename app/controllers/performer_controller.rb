@@ -1,7 +1,7 @@
 class PerformerController < ApplicationController
 
   def show
-    binding.pry 
     puts "Performer controller"
+    binding.pry 
   end
 end
